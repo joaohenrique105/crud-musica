@@ -18,7 +18,7 @@ Clone o repositório e instale as dependências:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/musica-crud.git
+git clone https://github.com/joaohenrique105/musica-crud.git
 cd musica-crud
 npm install
 🧪 Scripts Disponíveis
